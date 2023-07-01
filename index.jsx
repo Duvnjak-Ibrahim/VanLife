@@ -24,3 +24,4 @@ function App() {
 ReactDOM
   .createRoot(document.getElementById('root'))
   .render(<App />);
+  console.log("commit 2")
